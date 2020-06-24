@@ -12,4 +12,5 @@ El personaje se elige haciendo click sobre la imagen, para desplazarse se utiliz
 
 ## UML
 
-![apater](https://user-images.githubusercontent.com/54810355/85615748-53d78d00-b622-11ea-84c9-acd380151b8e.png)
+![UMLAdapter](https://user-images.githubusercontent.com/54810355/85625285-d2d3c200-b630-11ea-95c7-e36ddfae3db0.png)
+
